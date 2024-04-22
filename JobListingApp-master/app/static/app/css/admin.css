@@ -1,0 +1,38 @@
+#content-main > div.app-authtoken.module > table > caption,#content-main > div.app-auth.module > table > caption,#content-main > div.app-core.module > table > caption{
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+}
+#header{
+    height: 50px;
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+    color: #fff;
+}
+
+
+#branding h1{
+    color: #fff;
+
+}
+
+a:link,a:visited{
+    color: #0055FE;
+}
+
+div.breadcrumbs{
+    background: #2FA0DA;
+    color: #fff;
+}
+.module h2, .module caption, .inline-group h2{
+    background: #2FA0DA;
+}
+
+div.breadcrumbs a{
+    color: rgb(254, 250, 0);
+}
+
+.button.default, input[type=submit].default, .submit-row input.default{
+    background: #0055FE;
+}
+.button, input[type=submit], input[type=button], .submit-row input, a.button {
+    background: #0055FE;
+}
+
